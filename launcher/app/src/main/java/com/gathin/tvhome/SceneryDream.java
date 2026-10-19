@@ -95,7 +95,10 @@ public class SceneryDream extends DreamService {
         type(period, 12, 0xc9ffffff, 400); period.setPadding(dp(6), 0, 0, dp(5)); timeRow.addView(period);
         clockBlock.addView(timeRow);
         TextClock date = new TextClock(this); date.setFormat12Hour("EEE, d MMM"); date.setFormat24Hour("EEE, d MMM");
-        type(date, 14, 0xccffffff, 350); date.setPadding(dp(6), dp(5), 0, 0); clockBlock.addView(date);
+        type(date, 14, 0xccffffff, 350); date.setPadding(dp(6), 0, 0, 0);
+        // Compensate for the large clock font's descent so the visible gap matches the caption.
+        LinearLayout.LayoutParams dateParams = new LinearLayout.LayoutParams(-2, -2);
+        dateParams.topMargin = -dp(5); clockBlock.addView(date, dateParams);
         FrameLayout.LayoutParams clockParams = new FrameLayout.LayoutParams(-2, -2, Gravity.BOTTOM | Gravity.END);
         clockParams.setMargins(dp(48), 0, dp(48), dp(40)); root.addView(clockBlock, clockParams);
         setContentView(root);
