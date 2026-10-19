@@ -3,11 +3,12 @@
     android:id="@+id/root"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="#FF000000">
+    android:background="#08090C">
 
     <!-- Ambient glow in the colour of the focused dock app. -->
     <View
         android:id="@+id/ambient"
+        android:visibility="gone"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:alpha="0" />
@@ -15,6 +16,7 @@
     <!-- Top shelf: the focused dock app's name, positioned above the dock in code. -->
     <TextView
         android:id="@+id/heroName"
+        android:visibility="gone"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginStart="68dp"
@@ -50,6 +52,7 @@
 
                 <TextView
                     android:id="@+id/greeting"
+                    android:visibility="gone"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:singleLine="true"
@@ -66,7 +69,8 @@
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:orientation="horizontal"
-                    android:baselineAligned="true">
+                        android:baselineAligned="false"
+                        android:gravity="center_vertical">
 
                     <TextClock
                         android:id="@+id/clock"
@@ -100,7 +104,7 @@
                     <View
                         android:layout_width="1dp"
                         android:layout_height="26dp"
-                        android:layout_gravity="bottom"
+                        android:layout_gravity="center_vertical"
                         android:layout_marginStart="16dp"
                         android:layout_marginEnd="16dp"
                         android:layout_marginBottom="8dp"
@@ -110,8 +114,7 @@
                         android:layout_width="0dp"
                         android:layout_weight="1"
                         android:layout_height="wrap_content"
-                        android:layout_gravity="bottom"
-                        android:layout_marginBottom="9dp"
+                        android:layout_gravity="center_vertical"
                         android:orientation="vertical">
 
                         <!-- Shamsi date ("27 Mehr 1405"), shown when shamsi_date is on. -->
@@ -129,22 +132,38 @@
                             android:includeFontPadding="false"
                             android:visibility="gone" />
 
-                        <TextClock
-                            android:id="@+id/date"
+                        <TextView
+                            android:id="@+id/weather"
                             android:layout_width="match_parent"
                             android:layout_height="wrap_content"
                             android:singleLine="true"
                             android:ellipsize="end"
-                            android:format12Hour="@string/date_format"
-                            android:format24Hour="@string/date_format"
-                            android:textColor="#A6FFFFFF"
-                            android:textSize="14sp"
+                            android:text="—°C"
+                            android:textColor="#E6FFFFFF"
+                            android:textSize="40sp"
+                            android:gravity="center_vertical"
+                            android:includeFontPadding="false"
                             android:fontFamily="@font/outfit"
-                            android:fontVariationSettings="'wght' 400"
-                            android:letterSpacing="0.14"
-                            android:textAllCaps="true" />
+                            android:fontVariationSettings="'wght' 300"
+                            android:letterSpacing="-0.04" />
                     </LinearLayout>
                 </LinearLayout>
+                <TextClock
+                    android:id="@+id/date"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="4dp"
+                    android:layout_marginTop="6dp"
+                    android:singleLine="true"
+                    android:ellipsize="end"
+                    android:format12Hour="@string/date_format"
+                    android:format24Hour="@string/date_format"
+                    android:textColor="#A6FFFFFF"
+                    android:textSize="14sp"
+                    android:fontFamily="@font/outfit"
+                    android:fontVariationSettings="'wght' 400"
+                    android:letterSpacing="0.14"
+                    android:textAllCaps="true" />
             </LinearLayout>
 
             <LinearLayout
@@ -156,15 +175,16 @@
                 android:layout_marginBottom="6dp"
                 android:orientation="horizontal">
 
-                <TextView
+                <ImageButton
                     android:id="@+id/btnInputs"
-                    style="@style/TopButton"
-                    android:text="@string/inputs"
-                    android:drawableStart="@drawable/ic_input"
+                    style="@style/CircleButton"
+                    android:contentDescription="@string/inputs"
+                    android:src="@drawable/ic_input"
                     android:nextFocusDown="@+id/grid" />
 
                 <TextView
                     android:id="@+id/btnWifi"
+                    android:visibility="gone"
                     style="@style/TopButton"
                     android:maxWidth="180dp"
                     android:singleLine="true"
@@ -173,11 +193,19 @@
                     android:drawableStart="@drawable/ic_wifi"
                     android:nextFocusDown="@+id/grid" />
 
-                <TextView
+                <ImageButton
+                    android:id="@+id/btnAllApps"
+                    style="@style/CircleButton"
+                    android:contentDescription="All Apps"
+                    android:src="@drawable/ic_apps"
+                    android:nextFocusRight="@+id/btnSettings"
+                    android:nextFocusDown="@+id/grid" />
+
+                <ImageButton
                     android:id="@+id/btnSettings"
-                    style="@style/TopButton"
-                    android:text="@string/settings"
-                    android:drawableStart="@drawable/ic_settings"
+                    style="@style/CircleButton"
+                    android:contentDescription="@string/settings"
+                    android:src="@drawable/ic_settings"
                     android:nextFocusDown="@+id/grid" />
             </LinearLayout>
         </RelativeLayout>

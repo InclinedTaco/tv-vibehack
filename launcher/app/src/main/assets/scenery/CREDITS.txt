@@ -1,0 +1,402 @@
+50 offline scenery photographs. Every bundled JPEG is 3840 x 2160.
+Photos retain their individual licenses; they are not licensed under the code MIT license.
+
+file: lofoten.jpg
+label: LOFOTEN, NORWAY
+author: Frantisek Duris
+source: https://unsplash.com/photos/OdoWsR99gYA
+license: Unsplash License
+licenseUrl: https://unsplash.com/license
+changes: Resized and cropped to 3840x2160 for the screensaver.
+
+file: coast.jpg
+label: TROPICAL COAST
+author: Bernd Dittrich
+source: https://unsplash.com/photos/jlNuDHqqcBc
+license: Unsplash License
+licenseUrl: https://unsplash.com/license
+changes: Resized and cropped to 3840x2160 for the screensaver.
+
+file: dunes.jpg
+label: DESERT AT DUSK
+author: Fabian Struwe
+source: https://unsplash.com/photos/4cloovdyuvw
+license: Unsplash License
+licenseUrl: https://unsplash.com/license
+changes: Resized and cropped to 3840x2160 for the screensaver.
+
+file: scene-04.jpg
+label: PYRENEES, FRANCE
+author: Moahim
+source: https://commons.wikimedia.org/wiki/File:2019_-_Parc_national_des_Pyrenees_-_Vall%C3%A9e_de_Gavarnie.jpg
+license: CC BY-SA 4.0
+licenseUrl: https://creativecommons.org/licenses/by-sa/4.0
+changes: Resized and center-cropped to 3840x2160; JPEG quality 88. Image remains under its stated original license.
+
+file: scene-05.jpg
+label: AGUARALES, SPAIN
+author: Diego Delso
+source: https://commons.wikimedia.org/wiki/File:Aguarales_de_Valpalmas,_Zaragoza,_Espa%C3%B1a,_2015-01-06,_DD_26.JPG
+license: CC BY-SA 4.0
+licenseUrl: https://creativecommons.org/licenses/by-sa/4.0
+changes: Resized and center-cropped to 3840x2160; JPEG quality 88. Image remains under its stated original license.
+
+file: scene-06.jpg
+label: ALGAR DO CARVAO, AZORES
+author: Diego Delso
+source: https://commons.wikimedia.org/wiki/File:Algar_do_Carvao,_isla_de_Terceira,_Azores,_Portugal,_2020-07-25,_DD_68-70_HDR.jpg
+license: CC BY-SA 4.0
+licenseUrl: https://creativecommons.org/licenses/by-sa/4.0
+changes: Resized and center-cropped to 3840x2160; JPEG quality 88. Image remains under its stated original license.
+
+file: scene-07.jpg
+label: SERRA DA BOCAINA, BRAZIL
+author: Heris Luiz Cordeiro Rocha
+source: https://commons.wikimedia.org/wiki/File:Arauc%C3%A1rias_ao_fundo_Parque_Nacional_da_Serra_da_Bocaina_-_denoise.jpg
+license: CC BY-SA 3.0
+licenseUrl: https://creativecommons.org/licenses/by-sa/3.0
+changes: Resized and center-cropped to 3840x2160; JPEG quality 88. Image remains under its stated original license.
+
+file: scene-08.jpg
+label: SERRA DOS ORGAOS, BRAZIL
+author: Carlos Perez Couto
+source: https://commons.wikimedia.org/wiki/File:Amanhecer_no_Hercules_--.jpg
+license: CC BY-SA 3.0
+licenseUrl: https://creativecommons.org/licenses/by-sa/3.0
+changes: Resized and center-cropped to 3840x2160; JPEG quality 88. Image remains under its stated original license.
+
+file: scene-09.jpg
+label: SOL DE MANANA, BOLIVIA
+author: Diego Delso
+source: https://commons.wikimedia.org/wiki/File:G%C3%A9iseres_Sol_de_Ma%C3%B1ana,_Bolivia,_2016-02-02,_DD_56.JPG
+license: CC BY-SA 4.0
+licenseUrl: https://creativecommons.org/licenses/by-sa/4.0
+changes: Resized and center-cropped to 3840x2160; JPEG quality 88. Image remains under its stated original license.
+
+file: scene-10.jpg
+label: TIERRA DEL FUEGO, ARGENTINA
+author: Godot13
+source: https://commons.wikimedia.org/wiki/File:ARG-2016-Aerial-Tierra_del_Fuego_(Ushuaia)%E2%80%93Valle_Carbajal_01.jpg
+license: CC BY-SA 4.0
+licenseUrl: https://creativecommons.org/licenses/by-sa/4.0
+changes: Resized and center-cropped to 3840x2160; JPEG quality 88. Image remains under its stated original license.
+
+file: scene-11.jpg
+label: FUERTEVENTURA, CANARY ISLANDS
+author: H. Zell
+source: https://commons.wikimedia.org/wiki/File:Barranco_Valle_de_la_Fuente_-_Fuerteventura.jpg
+license: CC BY 3.0
+licenseUrl: https://creativecommons.org/licenses/by/3.0
+changes: Resized and center-cropped to 3840x2160; JPEG quality 88. Image remains under its stated original license.
+
+file: scene-12.jpg
+label: GEIRANGERFJORD, NORWAY
+author: Diego Delso
+source: https://commons.wikimedia.org/wiki/File:Fiordo_de_Geiranger_desde_Flydalsjuvet,_Noruega,_2019-09-07,_DD_59.jpg
+license: CC BY-SA 4.0
+licenseUrl: https://creativecommons.org/licenses/by-sa/4.0
+changes: Resized and center-cropped to 3840x2160; JPEG quality 88. Image remains under its stated original license.
+
+file: scene-13.jpg
+label: VANG VIENG, LAOS
+author: Basile Morin
+source: https://commons.wikimedia.org/wiki/File:Front_view_of_a_stream_with_a_tree_as_vanishing_point,_mountains_and_mist_in_the_countryside_of_Vang_Vieng.jpg
+license: CC BY-SA 4.0
+licenseUrl: https://creativecommons.org/licenses/by-sa/4.0
+changes: Resized and center-cropped to 3840x2160; JPEG quality 88. Image remains under its stated original license.
+
+file: scene-14.jpg
+label: GLEN COE, SCOTLAND
+author: Colin
+source: https://commons.wikimedia.org/wiki/File:Glen_Coe_Rainbow.jpg
+license: CC BY-SA 4.0
+licenseUrl: https://creativecommons.org/licenses/by-sa/4.0
+changes: Resized and center-cropped to 3840x2160; JPEG quality 88. Image remains under its stated original license.
+
+file: scene-15.jpg
+label: MONSANTO, PORTUGAL
+author: Jules Verne Times Two
+source: https://commons.wikimedia.org/wiki/File:Granite_boulder_formations_near_the_Monsanto_Castle_at_sunrise,_Aldeia_de_Monsanto,_Portugal_(2)_julesvernex2-3.jpg
+license: CC BY-SA 4.0
+licenseUrl: https://creativecommons.org/licenses/by-sa/4.0
+changes: Resized and center-cropped to 3840x2160; JPEG quality 88. Image remains under its stated original license.
+
+file: scene-16.jpg
+label: DON DET, LAOS
+author: Basile Morin
+source: https://commons.wikimedia.org/wiki/File:Green_and_luminous_paddy_fields_under_dark_clouds,_in_Don_Det.jpg
+license: CC BY-SA 4.0
+licenseUrl: https://creativecommons.org/licenses/by-sa/4.0
+changes: Resized and center-cropped to 3840x2160; JPEG quality 88. Image remains under its stated original license.
+
+file: scene-17.jpg
+label: BLUE MOUNTAINS, AUSTRALIA
+author: Diliff
+source: https://commons.wikimedia.org/wiki/File:Grose_Valley,_NSW,_Australia_-_April_2013.jpg
+license: CC BY-SA 3.0
+licenseUrl: https://creativecommons.org/licenses/by-sa/3.0
+changes: Resized and center-cropped to 3840x2160; JPEG quality 88. Image remains under its stated original license.
+
+file: scene-18.jpg
+label: GUARATIBA, BRAZIL
+author: Jonathan Wilkins and edited by Poco a poco
+source: https://commons.wikimedia.org/wiki/File:Guaratiba_morning.jpg
+license: CC BY-SA 3.0
+licenseUrl: https://creativecommons.org/licenses/by-sa/3.0
+changes: Resized and center-cropped to 3840x2160; JPEG quality 88. Image remains under its stated original license.
+
+file: scene-19.jpg
+label: GULLFOSS, ICELAND
+author: Diego Delso
+source: https://commons.wikimedia.org/wiki/File:Gullfoss,_Su%C3%B0urland,_Islandia,_2014-08-16,_DD_119.JPG
+license: CC BY-SA 4.0
+licenseUrl: https://creativecommons.org/licenses/by-sa/4.0
+changes: Resized and center-cropped to 3840x2160; JPEG quality 88. Image remains under its stated original license.
+
+file: scene-20.jpg
+label: EL TATIO, CHILE
+author: Diego Delso
+source: https://commons.wikimedia.org/wiki/File:G%C3%A9iseres_del_Tatio,_Atacama,_Chile,_2016-02-01,_DD_36-38_HDR.JPG
+license: CC BY-SA 4.0
+licenseUrl: https://creativecommons.org/licenses/by-sa/4.0
+changes: Resized and center-cropped to 3840x2160; JPEG quality 88. Image remains under its stated original license.
+
+file: scene-21.jpg
+label: HIMALAYAS, NEPAL
+author: Vyacheslav Argenberg
+source: https://commons.wikimedia.org/wiki/File:Himalayas,_Nepal.jpg
+license: CC BY 4.0
+licenseUrl: https://creativecommons.org/licenses/by/4.0
+changes: Resized and center-cropped to 3840x2160; JPEG quality 88. Image remains under its stated original license.
+
+file: scene-22.jpg
+label: HVANNHAGI, FAROE ISLANDS
+author: kallerna
+source: https://commons.wikimedia.org/wiki/File:Hvannhagi_9.jpg
+license: CC BY-SA 4.0
+licenseUrl: https://creativecommons.org/licenses/by-sa/4.0
+changes: Resized and center-cropped to 3840x2160; JPEG quality 88. Image remains under its stated original license.
+
+file: scene-23.jpg
+label: HVERAROND, ICELAND
+author: Martin Falbisoner
+source: https://commons.wikimedia.org/wiki/File:Hverar%C3%B6nd_July_2014.JPG
+license: CC BY-SA 4.0
+licenseUrl: https://creativecommons.org/licenses/by-sa/4.0
+changes: Resized and center-cropped to 3840x2160; JPEG quality 88. Image remains under its stated original license.
+
+file: scene-24.jpg
+label: SKJALFANDAFLJOT, ICELAND
+author: Villy Fink Isaksen
+source: https://commons.wikimedia.org/wiki/File:Skj%C3%A1lfandaflj%C3%B3t_at_Route_1.jpg
+license: CC BY-SA 4.0
+licenseUrl: https://creativecommons.org/licenses/by-sa/4.0
+changes: Resized and center-cropped to 3840x2160; JPEG quality 88. Image remains under its stated original license.
+
+file: scene-25.jpg
+label: JEJU ISLAND, SOUTH KOREA
+author: Basile Morin
+source: https://commons.wikimedia.org/wiki/File:Hydrangea_macrophylla_in_front_of_Seongsan_Ilchulbong_volcano_at_blue_hour_in_Jeju_Island_South_Korea.jpg
+license: CC BY-SA 4.0
+licenseUrl: https://creativecommons.org/licenses/by-sa/4.0
+changes: Resized and center-cropped to 3840x2160; JPEG quality 88. Image remains under its stated original license.
+
+file: scene-26.jpg
+label: NESKAUPSTADUR, ICELAND
+author: Martin Falbisoner
+source: https://commons.wikimedia.org/wiki/File:Icelandic_Landscape_near_Neskaupsta%C3%B0ur_July_2014.JPG
+license: CC BY-SA 4.0
+licenseUrl: https://creativecommons.org/licenses/by-sa/4.0
+changes: Resized and center-cropped to 3840x2160; JPEG quality 88. Image remains under its stated original license.
+
+file: scene-27.jpg
+label: MARAS SALT TERRACES, PERU
+author: Diego Delso
+source: https://commons.wikimedia.org/wiki/File:Salineras_de_Maras,_Maras,_Per%C3%BA,_2015-07-30,_DD_12.JPG
+license: CC BY-SA 4.0
+licenseUrl: https://creativecommons.org/licenses/by-sa/4.0
+changes: Resized and center-cropped to 3840x2160; JPEG quality 88. Image remains under its stated original license.
+
+file: scene-28.jpg
+label: KHONE PHAPHENG FALLS, LAOS
+author: Basile Morin
+source: https://commons.wikimedia.org/wiki/File:Khone_Phapheng_Falls,_Si_Phan_Don,_Laos,_widest_waterfall_in_the_world.jpg
+license: CC BY-SA 4.0
+licenseUrl: https://creativecommons.org/licenses/by-sa/4.0
+changes: Resized and center-cropped to 3840x2160; JPEG quality 88. Image remains under its stated original license.
+
+file: scene-29.jpg
+label: JAGERSEE, AUSTRIA
+author: Uoaei1
+source: https://commons.wikimedia.org/wiki/File:Kleinarl_J%C3%A4gersee_20180209.jpg
+license: CC BY-SA 4.0
+licenseUrl: https://creativecommons.org/licenses/by-sa/4.0
+changes: Resized and center-cropped to 3840x2160; JPEG quality 88. Image remains under its stated original license.
+
+file: scene-30.jpg
+label: LAC DE MONTRIOND, FRANCE
+author: Krzysztof Golik
+source: https://commons.wikimedia.org/wiki/File:Lac_de_Montriond_06.jpg
+license: CC BY-SA 4.0
+licenseUrl: https://creativecommons.org/licenses/by-sa/4.0
+changes: Resized and center-cropped to 3840x2160; JPEG quality 88. Image remains under its stated original license.
+
+file: scene-31.jpg
+label: LAC DE ROY, FRANCE
+author: Krzysztof Golik
+source: https://commons.wikimedia.org/wiki/File:Lac_de_Roy_10.jpg
+license: CC BY-SA 4.0
+licenseUrl: https://creativecommons.org/licenses/by-sa/4.0
+changes: Resized and center-cropped to 3840x2160; JPEG quality 88. Image remains under its stated original license.
+
+file: scene-32.jpg
+label: BUACHAILLE ETIVE MOR, SCOTLAND
+author: Colin
+source: https://commons.wikimedia.org/wiki/File:Lagangarbh_cottage_with_Buachaille_Etive_M%C3%B2r.jpg
+license: CC BY-SA 4.0
+licenseUrl: https://creativecommons.org/licenses/by-sa/4.0
+changes: Resized and center-cropped to 3840x2160; JPEG quality 88. Image remains under its stated original license.
+
+file: scene-33.jpg
+label: LAGUNA HONDA, BOLIVIA
+author: Diego Delso
+source: https://commons.wikimedia.org/wiki/File:Laguna_Honda,_Bolivia,_2016-02-03,_DD_34.JPG
+license: CC BY-SA 4.0
+licenseUrl: https://creativecommons.org/licenses/by-sa/4.0
+changes: Resized and center-cropped to 3840x2160; JPEG quality 88. Image remains under its stated original license.
+
+file: scene-34.jpg
+label: LAGUNA MISCANTI, CHILE
+author: Diego Delso
+source: https://commons.wikimedia.org/wiki/File:Laguna_Miscanti,_Chile,_2016-02-08,_DD_32.JPG
+license: CC BY-SA 4.0
+licenseUrl: https://creativecommons.org/licenses/by-sa/4.0
+changes: Resized and center-cropped to 3840x2160; JPEG quality 88. Image remains under its stated original license.
+
+file: scene-35.jpg
+label: SPECHTENSEE, AUSTRIA
+author: Uoaei1
+source: https://commons.wikimedia.org/wiki/File:Spechtensee_gegen_Westen_01.JPG
+license: CC BY-SA 3.0 at
+licenseUrl: https://creativecommons.org/licenses/by-sa/3.0/at/deed.en
+changes: Resized and center-cropped to 3840x2160; JPEG quality 88. Image remains under its stated original license.
+
+file: scene-36.jpg
+label: LAUGAVEGUR, ICELAND
+author: Chmee2 / Valtameri
+source: https://commons.wikimedia.org/wiki/File:Landscape_during_Laugavegur_hiking_trail_2-CA_reduced.jpg
+license: CC BY 3.0
+licenseUrl: https://creativecommons.org/licenses/by/3.0
+changes: Resized and center-cropped to 3840x2160; JPEG quality 88. Image remains under its stated original license.
+
+file: scene-37.jpg
+label: SCHLERN, ITALY
+author: This Photo was taken by Wolfgang Moroder . Feel free to use my photos, but please mention me as the author and send me a message . This image is not in the public domain . Please respect the copyright protection. It may only be used according to the rules mentioned here. This specifically excludes use in social media , if applicable terms of the licenses listed here not appropriate. Please do not upload an updated image here without consultation with the Author. The author would like to make corrections only at his own source. This ensures that the changes are preserved. Please if you think that any changes should be required, please inform the author. Otherwise you can upload a new image with a new name. Please use one of the templates derivative or extract .
+source: https://commons.wikimedia.org/wiki/File:Schlern_aus_Tisens_Kastelruth.jpg
+license: CC BY-SA 3.0
+licenseUrl: https://creativecommons.org/licenses/by-sa/3.0
+changes: Resized and center-cropped to 3840x2160; JPEG quality 88. Image remains under its stated original license.
+
+file: scene-38.jpg
+label: TONGARIRO, NEW ZEALAND
+author: Eusebius
+source: https://commons.wikimedia.org/wiki/File:Le_Ngauruhoe_et_le_Ruapehu_vus_du_sommet_du_Tongariro.jpg
+license: CC BY 3.0
+licenseUrl: https://creativecommons.org/licenses/by/3.0
+changes: Resized and center-cropped to 3840x2160; JPEG quality 88. Image remains under its stated original license.
+
+file: scene-39.jpg
+label: SECEDA, ITALY
+author: This Photo was taken by Wolfgang Moroder . Feel free to use my photos, but please mention me as the author and send me a message . This image is not in the public domain . Please respect the copyright protection. It may only be used according to the rules mentioned here. This specifically excludes use in social media , if applicable terms of the licenses listed here not appropriate. Please do not upload an updated image here without consultation with the Author. The author would like to make corrections only at his own source. This ensures that the changes are preserved. Please if you think that any changes should be required, please inform the author. Otherwise you can upload a new image with a new name. Please use one of the templates derivative or extract .
+source: https://commons.wikimedia.org/wiki/File:Lech_dl_Mandl_sun_Mastle_cun_Sec%C3%ABda.jpg
+license: CC BY-SA 3.0
+licenseUrl: https://creativecommons.org/licenses/by-sa/3.0
+changes: Resized and center-cropped to 3840x2160; JPEG quality 88. Image remains under its stated original license.
+
+file: scene-40.jpg
+label: LENCOIS, BRAZIL
+author: Jardelsliumba
+source: https://commons.wikimedia.org/wiki/File:Len%C3%A7%C3%B3is_de_Areia.JPG
+license: CC BY-SA 3.0
+licenseUrl: https://creativecommons.org/licenses/by-sa/3.0
+changes: Resized and center-cropped to 3840x2160; JPEG quality 88. Image remains under its stated original license.
+
+file: scene-41.jpg
+label: LI PHI FALLS, LAOS
+author: Basile Morin
+source: https://commons.wikimedia.org/wiki/File:Li_Phi_falls_at_dusk_with_colorful_sky_and_clouds_in_Don_Khon_Laos.jpg
+license: CC BY-SA 4.0
+licenseUrl: https://creativecommons.org/licenses/by-sa/4.0
+changes: Resized and center-cropped to 3840x2160; JPEG quality 88. Image remains under its stated original license.
+
+file: scene-42.jpg
+label: SEEBACHTAL, AUSTRIA
+author: Uoaei1
+source: https://commons.wikimedia.org/wiki/File:Mallnitz_Seebachtal_01.jpg
+license: CC BY-SA 4.0
+licenseUrl: https://creativecommons.org/licenses/by-sa/4.0
+changes: Resized and center-cropped to 3840x2160; JPEG quality 88. Image remains under its stated original license.
+
+file: scene-43.jpg
+label: SALAR DE UYUNI, BOLIVIA
+author: Diego Delso
+source: https://commons.wikimedia.org/wiki/File:Salar_de_Uyuni,_Bolivia,_2016-02-04,_DD_10-12_HDR.JPG
+license: CC BY-SA 4.0
+licenseUrl: https://creativecommons.org/licenses/by-sa/4.0
+changes: Resized and center-cropped to 3840x2160; JPEG quality 88. Image remains under its stated original license.
+
+file: scene-44.jpg
+label: SAN CARLOS, MEXICO
+author: Tomascastelazo
+source: https://commons.wikimedia.org/wiki/File:San_Carlos_Sonora_landscape.jpg
+license: CC BY-SA 4.0
+licenseUrl: https://creativecommons.org/licenses/by-sa/4.0
+changes: Resized and center-cropped to 3840x2160; JPEG quality 88. Image remains under its stated original license.
+
+file: scene-45.jpg
+label: SANTORINI, GREECE
+author: Dietmar Rabich
+source: https://commons.wikimedia.org/wiki/File:Santorin_(GR),_Ia_--_2017_--_2698.jpg
+license: CC BY-SA 4.0
+licenseUrl: https://creativecommons.org/licenses/by-sa/4.0
+changes: Resized and center-cropped to 3840x2160; JPEG quality 88. Image remains under its stated original license.
+
+file: scene-46.jpg
+label: CAPE GRECO, CYPRUS
+author: kallerna
+source: https://commons.wikimedia.org/wiki/File:Sea_caves_Cape_Greco_9.jpg
+license: CC BY-SA 4.0
+licenseUrl: https://creativecommons.org/licenses/by-sa/4.0
+changes: Resized and center-cropped to 3840x2160; JPEG quality 88. Image remains under its stated original license.
+
+file: scene-47.jpg
+label: SELJALANDSFOSS, ICELAND
+author: Diego Delso
+source: https://commons.wikimedia.org/wiki/File:Seljalandsfoss,_Su%C3%B0urland,_Islandia,_2014-08-16,_DD_201-203_HDR.JPG
+license: CC BY-SA 4.0
+licenseUrl: https://creativecommons.org/licenses/by-sa/4.0
+changes: Resized and center-cropped to 3840x2160; JPEG quality 88. Image remains under its stated original license.
+
+file: scene-48.jpg
+label: HORNOCAL, ARGENTINA
+author: Havardtl
+source: https://commons.wikimedia.org/wiki/File:Serran%C3%ADa_de_Hornocal_up_close_near_Humahuaca.jpg
+license: CC BY 4.0
+licenseUrl: https://creativecommons.org/licenses/by/4.0
+changes: Resized and center-cropped to 3840x2160; JPEG quality 88. Image remains under its stated original license.
+
+file: scene-49.jpg
+label: SNINSKY KAMEN, SLOVAKIA
+author: Milan Bališin
+source: https://commons.wikimedia.org/wiki/File:Sninsk%C3%BD_kame%C5%88_(v_zime)_046.jpg
+license: CC BY-SA 4.0
+licenseUrl: https://creativecommons.org/licenses/by-sa/4.0
+changes: Resized and center-cropped to 3840x2160; JPEG quality 88. Image remains under its stated original license.
+
+file: scene-50.jpg
+label: SPITI VALLEY, INDIA
+author: This Photo was taken by Timothy A. Gonsalves . Feel free to use my photos, but please mention me as the author. I would much appreciate if you send me an email tagooty@yahoo.com or write on my talk page , for my information. Please contact me before commercial use. Please do not upload an edited image here without consulting me. I would like to make corrections only at my own source to ensure that the changes improve the image and are preserved. Otherwise you may upload an edited image with a new name. Please use one of the templates derivative or extract .
+source: https://commons.wikimedia.org/wiki/File:Spiti_River_Kaza_Himachal_Jun18_D72_7232.jpg
+license: CC BY-SA 4.0
+licenseUrl: https://creativecommons.org/licenses/by-sa/4.0
+changes: Resized and center-cropped to 3840x2160; JPEG quality 88. Image remains under its stated original license.
