@@ -99,7 +99,7 @@ public class SceneryDream extends DreamService {
         // Tighten the visible gap without changing the clock row's measured width or position.
         date.setTranslationY(-dp(10));
         FrameLayout.LayoutParams clockParams = new FrameLayout.LayoutParams(-2, -2, Gravity.BOTTOM | Gravity.END);
-        clockParams.setMargins(dp(48), 0, dp(48), dp(40)); root.addView(clockBlock, clockParams);
+        clockParams.setMargins(dp(48), 0, dp(48), dp(32)); root.addView(clockBlock, clockParams);
         setContentView(root);
     }
     @Override public void onDreamingStarted() {
